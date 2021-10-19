@@ -1,0 +1,16 @@
+C:\Users\Emmanuel\source\repos\music\music\bin\Debug\music.exe.config
+C:\Users\Emmanuel\source\repos\music\music\bin\Debug\music.exe
+C:\Users\Emmanuel\source\repos\music\music\bin\Debug\music.pdb
+C:\Users\Emmanuel\source\repos\music\music\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.Form1.resources
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.Properties.Resources.resources
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.csproj.GenerateResource.Cache
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.exe
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.pdb
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\source\repos\music\music\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emmanuel\source\repos\music\music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\Interop.WMPLib.dll
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Emmanuel\source\repos\music\music\obj\Debug\music.csproj.ResolveComReference.cache
